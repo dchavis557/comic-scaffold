@@ -18,7 +18,7 @@ A lightweight Python CLI tool for generating standardized comic project folder s
 ## 💻 Usage
 
 ```bash
-python comic_project_cli.py
+python project-creator.py
 ```
 
 The tool will walk you through a few prompts:
